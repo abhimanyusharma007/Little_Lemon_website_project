@@ -264,7 +264,7 @@ footer ul li{
 
   .nav-links.visible {
     display: flex;
-    background: #333333;
+    background: #495e57;
     z-index: 1000;
     padding: 20px 0;
   }
